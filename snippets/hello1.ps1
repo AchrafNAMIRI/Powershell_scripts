@@ -1,3 +1,5 @@
 Write-Host "hello"
 $name=Read-Host "what is your name"
 write-host "My name is $name"
+$name1=Read-Host "what is your last name"
+write-host "My last name is $name1 "
